@@ -7,6 +7,7 @@ who am i, ideas, resources
   "last_name": "Mihaylov",
   "age": 25,
   "nationality": "Bulgaria",
-  "profession": "Junior Python Developer"
+  "profession": "junior_python_developer" 
+  " ---| email --> denielmihaylov@outlook.com
 }
 ```
